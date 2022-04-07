@@ -1,2 +1,2 @@
-# Color-Picker-Part-1
+# Color-Picker
 Pre-work-phase-2
